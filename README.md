@@ -1,2 +1,2 @@
 # Cyber-Security-course-
-Complete this course in my University .
+I Completed this course in my University .
