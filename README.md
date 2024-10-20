@@ -7,4 +7,6 @@ For mid:
    1.Additive 
    2.Multiplicative,
    3.Affine
+   All cipher (tecnic)
+
    
