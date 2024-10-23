@@ -1,9 +1,9 @@
 # Cyber-Security-course-
 I Completed this course in my University .
 
-##Suggestions 
+##Suggestions:
 For mid:
-  Sub cipher cipher.
+  Sub cipher.
    1.Additive 
    2.Multiplicative,
    3.Affine
